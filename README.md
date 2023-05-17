@@ -4,4 +4,4 @@
 
 # "Social movements and representation: The impact of 2019 Chilean protests on turnout and political realignment".
 
-# Authors: Rocío Salas Lewin.
+# Author: Rocío Salas Lewin.
